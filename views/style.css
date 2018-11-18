@@ -1,0 +1,23 @@
+*{
+  box-sizing: border-box;
+
+}
+body{
+background-image: url("images/back.jpg");
+background-size: cover;
+text-align: center;
+margin-top: 5%;
+font-family: monospace;
+font-size: 18px;
+font-weight: ;
+}
+img{
+display: ;
+}
+button{
+  background-color: crimson;
+  border:1px solid crimson;
+  font-size: 13px;
+  padding: 5px;
+  border-radius: 9%;
+}
